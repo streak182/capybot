@@ -1,3 +1,4 @@
+console.log("🚀 Bot starting...");
 import { Client, GatewayIntentBits } from 'discord.js';
 import cron from 'node-cron';
 import fetch from 'node-fetch';
