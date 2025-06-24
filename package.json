@@ -2,9 +2,9 @@
   "name": "capybot",
   "version": "1.0.0",
   "description": "Discord bot that posts daily capybara images.",
-  "main": "server/discord-bot.js",
-  "scripts": {
-    "start": "node server/discord-bot.js"
+"main": "discord-bot.js",
+"scripts": {
+  "start": "node discord-bot.js"  
   },
   "dependencies": {
     "discord.js": "^14.0.0",
