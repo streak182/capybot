@@ -76,3 +76,4 @@ client.once('ready', () => {
 
 client.login(process.env.DISCORD_BOT_TOKEN);
 console.log("Redeploy trigger");
+// trigger redeploy
