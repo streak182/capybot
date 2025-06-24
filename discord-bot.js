@@ -1,5 +1,5 @@
-console.log("🚀 Bot starting...");
-setTimeout(() => {
-  console.log("✅ Bot finished after 5 seconds");
-  process.exit(0);
-}, 5000);
+console.log("✅ Capybot booting...");
+
+setInterval(() => {
+  console.log("📸 Capybot is alive at", new Date().toISOString());
+}, 10000);
